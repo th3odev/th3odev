@@ -9,8 +9,6 @@ I'm a front-end developer from Brazil focused on building clean, responsive, aes
 I enjoy creating simple and functional solutions with a strong emphasis on UI/UX.  
 Currently studying back-end development to become a full-stack developer.
 
-<img src="https://komarev.com/ghpvc/?username=th3odev&color=lightgrey" />
-
 ---
 
 ## Tech Stack
