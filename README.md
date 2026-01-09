@@ -31,6 +31,8 @@ Currently studying back-end development to become a full-stack developer.
   <a href="mailto:theocorrea.contato@gmail.com">
     <img src="https://img.shields.io/badge/Email-E5E7EB?style=for-the-badge&logo=maildotru&logoColor=000000"/>
   </a>
+</div>
+<div align="right>
   <img width="6"/>
   <a href="https://www.linkedin.com/in/devth3o/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-E5E7EB?style=for-the-badge&logo=linkedin&logoColor=000000"/>
