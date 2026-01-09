@@ -1,16 +1,44 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
-<!--
-**th3odev/th3odev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Hi%2C+welcome.;I+am+a+front-end+developer;and+UI%2FUX+enthusiast)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a front-end developer from Brazil focused on building clean, responsive, aesthetic, and user-friendly interfaces.
+
+I enjoy creating simple and functional solutions with a strong emphasis on UI/UX.  
+Currently studying back-end development to become a full-stack developer.
+
+---
+
+## Tech Stack
+
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" height="28"/>
+  <img width="6"/>
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" height="28"/>
+  <img width="6"/>
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white" height="28"/>
+  <img width="6"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=white" height="28"/>
+</div>
+
+---
+
+## Contact
+
+<div align="left">
+  <a href="mailto:theocorrea.contato@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000"/>
+  </a>
+  <img width="6"/>
+  <a href="https://www.linkedin.com/in/devth3o/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+  </a>
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
