@@ -27,8 +27,8 @@ Currently studying back-end development to become a full-stack developer.
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=e7e7e7&color=e7e7e7&labelColor=00000000)](https://www.linkedin.com/in/devth3o/)
-[![theocorrea.contato@gmail.com](https://img.shields.io/badge/theocorrea.contato@gmail.com-e7e7e7?style=flat&logo=gmail&logoColor=000000&color=e7e7e7&labelColor=e7e7e7)](mailto:theocorrea.contato@gmail.com)
+theocorrea.contato@gmail.com -
+https://linkedin.com/devth3o
 
 ---
 
