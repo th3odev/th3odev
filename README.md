@@ -33,3 +33,7 @@ Currently studying back-end development to become a full-stack developer.
 [![theocorrea.contato@gmail.com](https://img.shields.io/badge/theocorrea.contato@gmail.com-e7e7e7?style=flat&logo=gmail&logoColor=000000&color=e7e7e7&labelColor=e7e7e7)](mailto:theocorrea.contato@gmail.com)
 
 ---
+
+<div align="right">
+  <sub>愛Mও</sub>
+</div>
