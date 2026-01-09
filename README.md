@@ -9,33 +9,27 @@ I'm a front-end developer from Brazil focused on building clean, responsive, aes
 I enjoy creating simple and functional solutions with a strong emphasis on UI/UX.  
 Currently studying back-end development to become a full-stack developer.
 
+<img src="https://komarev.com/ghpvc/?username=th3odev&color=lightgrey" />
+
 ---
 
 ## Tech Stack
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" height="28"/>
-  <img width="6"/>
+  <img width="8"/>
   <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" height="28"/>
-  <img width="6"/>
+  <img width="8"/>
   <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white" height="28"/>
-  <img width="6"/>
+  <img width="8"/>
   <img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=white" height="28"/>
 </div>
 
 ---
 
 ## Contact
-<div align="left">
-  <a href="mailto:theocorrea.contato@gmail.com">
-    <img src="https://img.shields.io/badge/Email-E5E7EB?style=for-the-badge&logo=maildotru&logoColor=000000"/>
-  </a>
-<div align="right>
-  <img width="6"/>
-  <a href="https://www.linkedin.com/in/devth3o/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-E5E7EB?style=for-the-badge&logo=linkedin&logoColor=000000"/>
-  </a>
-</div>
-![](https://komarev.com/ghpvc/?username=th3odev-username&color=lightgrey)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=e7e7e7&color=e7e7e7&labelColor=00000000)](https://www.linkedin.com/in/devth3o/)
+[![theocorrea.contato@gmail.com](https://img.shields.io/badge/theocorrea.contato@gmail.com-e7e7e7?style=flat&logo=gmail&logoColor=000000&color=e7e7e7&labelColor=e7e7e7)](mailto:theocorrea.contato@gmail.com)
 
 ---
