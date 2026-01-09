@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Hi%2C+welcome.;I+am+a+front-end+developer;and+UI%2FUX+enthusiast)](https://git.io/typing-svg)
+
 ---
 
 ## About Me
