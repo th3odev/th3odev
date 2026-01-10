@@ -11,7 +11,7 @@ Currently studying back-end development to become a full-stack developer.
 
 ---
 
-## Tech Stack
+## Technologies
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" height="28"/>
