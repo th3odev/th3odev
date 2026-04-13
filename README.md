@@ -27,8 +27,7 @@ Currently studying back-end development to become a full-stack developer.
 
 ## Contact
 
-theocorrea.contato@gmail.com -
-https://linkedin.com/devth3o
+theocorrea.contato@gmail.com 
 
 ---
 
