@@ -30,6 +30,4 @@ theocorrea.contato@gmail.com
 
 ---
 
-<div align="right">
-  <sub>Learning, building and improving.</sub>
-</div>
+<div align="right"> <sub>愛Mও0907</sub> </div>
